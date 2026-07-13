@@ -1,142 +1,99 @@
 <div align="center">
 
-# ⚡ DEVOTTAM KUMAR
+# Devottam Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=IIT+PATNA+%7C+CSDA;FULL+STACK+DEVELOPER;BUILDING+EVE;AI+OPERATING+SYSTEM+FOR+FASHION+BRANDS" />
+### Building EVE — AI Operating System for Fashion Brands
 
-</div>
-
----
-
-# 🛰 SYSTEM STATUS
-
-```diff
-+ STATUS        : ONLINE
-+ LOCATION      : IIT PATNA
-+ ROLE          : STUDENT + BUILDER
-+ CURRENT BUILD : EVE
-+ MODE          : PRODUCT DEVELOPMENT
-+ TARGET        : AI-POWERED SAAS
-```
-
----
-
-# 🎯 MISSION BRIEF
-
-Building **EVE** — an AI-powered Executive Operating System for Fashion Brands.
-
-EVE helps founders understand:
-
-- Inventory Risk
-- Dead Stock
-- Stockout Risk
-- Reorder Decisions
-- Profitability
-- Business Performance
-
-Goal:
-
-```text
-Transform raw business data
-into executive intelligence.
-```
-
----
-
-# ⚙ ACTIVE PROJECTS
-
-| Project | Status | Description |
-|----------|----------|----------|
-| EVE | 🟢 ACTIVE | AI Operating System for Fashion Brands |
-| LearnMatch AI | 🟢 ACTIVE | AI-Powered Learning Intelligence Platform |
-| Portfolio | 🟢 ACTIVE | Premium Interactive Developer Portfolio |
-
----
-
-# 🧠 TECH STACK
-
-### Frontend
-
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
-
----
-
-# 🚀 CURRENT OBJECTIVES
-
-```yaml
-Primary:
-  - Build EVE MVP
-  - Acquire Pilot Customers
-  - Improve System Design
-
-Learning:
-  - DSA
-  - AI Agents
-  - Scalable SaaS Architecture
-
-Long Term:
-  - Build Venture Scale Products
-```
-
----
-
-# 📊 GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devottamkumar1310-cpu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=devottamkumar1310-cpu&theme=tokyonight&hide_border=true"/>
+IIT Patna • Computer Science & Data Analytics
 
 </div>
 
 ---
 
-# 🔭 EXECUTIVE LOG
+## About
 
-```text
-2026:
-Building EVE
-Learning System Design
-Exploring AI Agents
-Shipping Products
-```
+I'm a Computer Science & Data Analytics student at IIT Patna focused on building software products, AI systems, and data-driven applications.
+
+Currently building **EVE**, an AI-powered platform that helps fashion brands make better inventory and business decisions through intelligent analytics and automation.
 
 ---
 
-# 📡 CONTACT CHANNELS
+## Featured Projects
 
-- Portfolio → Coming Soon
-- LinkedIn → Add Your Profile
-- Email → devottamkumar1310@gmail.com
+### EVE
+
+AI Operating System for Fashion Brands
+
+- Inventory Intelligence
+- Dead Stock Detection
+- Stockout Prediction
+- Reorder Recommendations
+- Profitability Analysis
+- Executive Dashboard
+
+### LearnMatch AI
+
+AI-powered learning intelligence platform that matches students with teachers and resources based on learning behavior.
+
+### Portfolio
+
+A modern interactive portfolio showcasing projects, product development, and technical work.
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+**Backend**
+
+`FastAPI` `Python` `Node.js` `Express`
+
+**Database**
+
+`PostgreSQL` `Supabase`
+
+**Tools**
+
+`Git` `GitHub` `Vercel` `Render`
+
+---
+
+## Currently
+
+- Building EVE
+- Learning System Design
+- Improving DSA
+- Exploring AI Agents
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devottamkumar1310-cpu&show_icons=true&theme=transparent"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=devottamkumar1310-cpu&theme=transparent"/>
+
+</div>
+
+---
+
+## Connect
+
+Portfolio: Coming Soon
+
+LinkedIn: Add Your Profile
+
+Email: devottamkumar1310@gmail.com
 
 ---
 
 <div align="center">
 
-## AETHER SYSTEM ONLINE
-
-Building products.
-Shipping code.
-Learning continuously.
+Building products that solve real problems.
 
 </div>
