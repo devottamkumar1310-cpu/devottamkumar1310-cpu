@@ -31,7 +31,7 @@ AI Operating System for Fashion Brands
 - Profitability Analysis
 - Executive Dashboard
 
-### LearnMatch AI
+### Friday
 
 AI-powered learning intelligence platform that matches students with teachers and resources based on learning behavior.
 
@@ -84,9 +84,9 @@ A modern interactive portfolio showcasing projects, product development, and tec
 
 ## Connect
 
-Portfolio: Coming Soon
+Portfolio: https://www.devottamkumar.in
 
-LinkedIn: Add Your Profile
+LinkedIn: https://www.linkedin.com/in/devottamkumar
 
 Email: devottamkumar1310@gmail.com
 
